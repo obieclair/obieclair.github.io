@@ -1,7 +1,8 @@
 title: "Affiliates"
 email: wowthemesnet@gmail.com
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+url: "https://obieclair.github.io"
+baseurl: "/obieclair"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
